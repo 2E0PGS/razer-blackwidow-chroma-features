@@ -1,4 +1,4 @@
-# razor-deathadder-chroma-features
+# Razer DeathAdder Chroma Features
 
 List of features catagorised by software dependency or software independence.
 
