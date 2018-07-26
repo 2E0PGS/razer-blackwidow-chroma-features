@@ -1,4 +1,4 @@
-# Razer DeathAdder Chroma Features
+# Razer BlackWidow Chroma Features
 
 List of features catagorised based on if they are hardware or software implemented.
 
